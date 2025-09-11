@@ -25,7 +25,7 @@
 ---
 
 ### 📊 Thống kê GitHub
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VTNMT2930&theme=dracula)](https://git.io/streak-stats)
 ![Ngôn ngữ phổ biến nhất](https://github-readme-stats.vercel.app/api/top-langs/?username=VTNMT2930&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117)
 
 ---
