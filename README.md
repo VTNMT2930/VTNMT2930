@@ -1,7 +1,5 @@
 # VÕ TRUNG NHÂN
-### Backend Developer | Java & Spring Boot
-
-🚀 Sinh viên ngành Kỹ thuật phần mềm với đam mê xây dựng các hệ thống backend có hiệu suất cao và khả năng mở rộng.
+### Java Backend Developer
 
 ---
 
